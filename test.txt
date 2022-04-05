@@ -1,0 +1,12 @@
+1st Rotating -> Checking :       -0.335
+2st Rotating -> Checking :       -0.027
+3st Rotating -> Checking :       0.77
+4st Rotating -> Checking :       1.077
+5st Rotating -> Checking :       0.014
+6st Rotating -> Checking :       -0.266
+7st Rotating -> Checking :       0.839
+8st Rotating -> Checking :       -0.531
+9st Rotating -> Checking :       1.092
+10st Rotating -> Checking :       0.434
+11st Rotating -> Checking :       -1.076
+12st Rotating -> Checking :       -0.671
